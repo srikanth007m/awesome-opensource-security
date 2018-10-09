@@ -26,6 +26,10 @@ Deobfuscation
   * [lzybkr/ShowPSAst - Simple UI to explore the PowerShell Ast](https://github.com/lzybkr/ShowPSAst)
   * [PowerShell/PSScriptAnalyzer - a static code checker for Windows PowerShell modules and scripts](https://github.com/PowerShell/PSScriptAnalyzer)
 
+Network
+
+* [nettitude/SharpSocks - Tunnellable HTTP/HTTPS socks4a proxy written in C# and deployable via PowerShell](https://github.com/nettitude/SharpSocks)
+
 Obfuscator
 
 * [danielbohannon/Invoke-CradleCrafter - PowerShell Remote Download Cradle Generator & Obfuscator](https://github.com/danielbohannon/Invoke-CradleCrafter)
